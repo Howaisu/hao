@@ -1,7 +1,7 @@
 // Here's where we'll put all the variables to mess with
 
 //crew roster
-String pilot = "Prof Kit";
+String pilot = "Hello World";
 String copilot = "";
 
 //spacecraft controls
@@ -13,7 +13,7 @@ boolean sensors = true; //turns on sensors
 boolean parkingBrake = false;
 boolean shields = true; //turns on shields
 
-boolean redAlert = false; //turns on red alert
+boolean redAlert = true; //turns on red alert
 
 // End of variables to mess with in Basic Training
 
